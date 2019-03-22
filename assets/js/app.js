@@ -4,11 +4,11 @@ window.onscroll = function() {
 };
 
 // Get the navbar
-var navigation = document.getElementById("navigation-bar");
+let navigation = document.getElementById("navigation-bar");
 
 // Get the offset position of the navbar
 /* var sticky = navigation.offsetTop; */
-var sticky = navigation.offsetHeight;
+let sticky = navigation.offsetHeight;
 console.log(sticky);
 
 // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
