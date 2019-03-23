@@ -177,6 +177,10 @@ h1 {
     .empty-container {
         display: none;
     }
+
+    .display-4 {
+        font-size: 2rem;
+    }
 }
 
 @media (max-width: 767.98px) {
