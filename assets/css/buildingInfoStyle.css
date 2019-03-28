@@ -136,7 +136,11 @@ p {
 .big-data-windows-image {
     max-height: 285px;
     max-width: 285px;
-    border-radius: 10%;
+    border-radius: 2%;
+}
+
+.punchcard-image {
+    border-radius: 2%;
 }
 
 @media (max-width: 575.98px) {
