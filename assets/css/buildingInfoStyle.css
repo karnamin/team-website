@@ -133,6 +133,10 @@ p {
     font-size: 1.2rem;
 }
 
+.row-img {
+    padding-bottom: 5%;
+}
+
 .big-data-windows-image {
     max-height: 285px;
     max-width: 285px;
