@@ -84,11 +84,6 @@ body {
     border-bottom-color: #fff;
 }
 
-p {
-    padding-bottom: 3%;
-    font-size: 1.2rem;
-}
-
 .image {
     width: 200px;
     height: 375.5px;
@@ -123,6 +118,25 @@ p {
 
 h1 {
     font-weight: 600 !important;
+}
+
+h4 {
+    margin: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+p {
+    padding-bottom: 3%;
+    font-size: 1.2rem;
+}
+
+.big-data-windows-image {
+    max-height: 285px;
+    max-width: 285px;
+    border-radius: 10%;
 }
 
 @media (max-width: 575.98px) {
