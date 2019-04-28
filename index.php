@@ -46,8 +46,8 @@
 
                     <div class="col-sm jumbo-img images">
                         <img
-                            src="assets/imgs/placeholder.jpg"
-                            alt="placeholder"
+                            src="assets/imgs/homepage_mockup.png"
+                            alt="homepage"
                             class="image"
                         />
                     </div>
@@ -63,14 +63,27 @@
             </div>
 
             <nav
-                class="navbar navbar-expand-lg navbar-light"
+                class="navbar navbar-expand-lg navbar-dark"
                 id="navigation-bar"
             >
+                <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                >
+                    <span class="navbar-toggler-icon"></span>
+                </button>
                 <div
                     class="collapse navbar-collapse navigation"
                     id="navbarSupportedContent"
                 >
-                    <ul class="navbar-nav mx-auto">
+                    <ul
+                        class="navbar-nav mx-auto flex-column-reverse flex-md-row"
+                    >
                         <li class="nav-item active">
                             <a class="nav-link" href="#"
                                 >App
@@ -138,15 +151,15 @@
                 </div>
                 <div class="col-sm-6 col-md-3 images">
                     <img
-                        src="assets/imgs/placeholder.jpg"
-                        alt="placeholder"
+                        src="assets/imgs/search-1-mockup.png"
+                        alt="search-image"
                         class="image"
                     />
                 </div>
                 <div class="col-sm-6 col-md-3 images">
                     <img
-                        src="assets/imgs/placeholder.jpg"
-                        alt="placeholder"
+                        src="assets/imgs/search-2-mockup.png"
+                        alt="search-image"
                         class="image"
                     />
                 </div>
@@ -188,18 +201,18 @@
             </div>
             <div class="row images">
                 <img
-                    src="assets/imgs/placeholder.jpg"
-                    alt="placeholder"
+                    src="assets/imgs/direction-1-mockup.png"
+                    alt="directions-image"
                     class="image"
                 />
                 <img
-                    src="assets/imgs/placeholder.jpg"
-                    alt="placeholder"
+                    src="assets/imgs/direction-3-mockup.png"
+                    alt="directions-image"
                     class="image"
                 />
                 <img
-                    src="assets/imgs/placeholder.jpg"
-                    alt="placeholder"
+                    src="assets/imgs/direction-2-mockup.png"
+                    alt="directions-image"
                     class="image"
                 />
             </div>
