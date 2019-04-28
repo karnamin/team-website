@@ -49,8 +49,9 @@ body {
     margin-left: 25% !important;
 }
 
-.navbar-light .navbar-nav .active > .nav-link {
+.navbar-dark .navbar-nav .active > .nav-link {
     background-color: #fff;
+    color: black;
 }
 
 .nav-link {
@@ -60,7 +61,7 @@ body {
     font-size: 1.25rem;
 }
 
-.navbar-light .navbar-nav .nav-link {
+.navbar-dark .navbar-nav .nav-link {
     color: #000;
     background-color: #00477f;
     color: #fff;
