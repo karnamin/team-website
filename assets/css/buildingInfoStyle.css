@@ -148,6 +148,22 @@ p {
     border-radius: 2%;
 }
 
+.page-footer {
+    background: #00477f;
+    color: white;
+    font-size: 0.9em;
+}
+
+.footer-link {
+    color: azure;
+    text-decoration: underline;
+}
+
+.footer-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
 @media (max-width: 575.98px) {
     .jumbo-img {
         display: none;
